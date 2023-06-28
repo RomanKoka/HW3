@@ -1,0 +1,168 @@
+body{
+    background-color: #FFFFFF;
+    margin: 0;
+}
+/* Header section styles */
+header{
+  padding-bottom: 36px;
+   padding-top: 47px;
+   background-color:#FFFFFF;
+  
+}
+header .header-container{
+    width: 962px;
+    margin: 0 auto;
+    padding-top: 23px;
+    padding-bottom: 23px;
+    font-size: 0px;
+   background-color:#FFFFFF; 
+}
+
+.logo{
+    display: inline-block;
+    width: 480px;
+    background-color: #FFFFFF;
+}
+.logo-social{
+    display: inline-block;
+    width: 480px;
+    background-color: #FFFFFF;
+    text-align: right;
+}
+
+
+/* Form-section styles */
+.form-section{
+height: 421px;
+padding: 50px 0;
+background-color: #FAC960;
+}
+.form-section h1{
+    padding: 10px 20px;
+    color: #8A6D2F ;
+    text-align: center;
+    line-height: 54px;
+    font-size: 44px;
+}
+.form-section{
+    text-align: center;
+}
+.form-section form input
+.form-section form button{
+    display: inline-block;
+    border: none;
+    font-size: 30px;
+}
+
+.form-section form input{
+    width: 560px;
+    font-size: 30px;
+    padding: 10px 10px;
+    line-height: 54px;
+    border-radius: 2 0 0 2;
+    background: #FFF;
+}
+
+.form-section form button{
+    width: 240px;
+    font-size: 30px;
+    padding: 10px 10px;
+    text-align: center;
+    line-height: 54px;
+    border-radius: 0px 2px 2px 0px;
+    background-color: #A8863D;
+    color: #FFF;
+}
+
+input::placeholder{
+    color:  #999999;
+}
+
+/* Lorem ipsum section styles */
+
+.Lorem-ipsum{
+   margin: 0;
+   padding-top: 76px;
+   padding-bottom: 86px;
+   background-color: #F2F2F2;
+}
+.Lorem-ipsum .text-content{
+    text-align: Center;
+    background-color:#F2F2F2;
+}
+
+.Lorem-ipsum .text-content  a{
+    text-align: center;  
+}
+
+
+/* Mobil-access section styles */
+
+.mobile-access{
+    text-align: center;
+    margin-top:  93px;
+    background-color:#FFF;
+}
+ h2{
+    color: rgba(0, 0, 0, 0.56);
+    text-align: center;
+    font-size: 37px;
+    font-family: Roboto;
+    line-height: 36px;
+}
+ h5{
+    margin-top: 32px;
+    margin-bottom: 32px;
+    line-height: 30px;
+    line-height: 111%;
+    font-size: 23px;
+    text-align: Center;
+    color:rgba(0, 0, 0, 0.4);
+}
+
+/* Tell your friends section styles */
+
+.messege{
+    margin-top: 137px;
+    padding-top: 58px;
+    padding-bottom: 58px;
+    background: #FAC960;
+}
+.messege .text-content {
+    text-align: center;
+    background-color:  #FAC960
+}
+.tell-button form button{
+    width: 61px;
+    margin-bottom: 49px;
+    font-size: 22px;
+    border-radius: 3px;
+    border: 1px solid #758696;
+    background-color: #FFF;
+    color: #999;
+}
+
+/* Footer section styles */
+
+.footer{
+    margin: 0;
+    padding-top: 81px;
+    padding-bottom: 81px;
+    text-align: center;
+    background-color: #F2F2F2;
+}
+.logoicon {
+    padding-top: 81px;
+    text-align: center;
+    padding-bottom: 41px;
+}
+.socialicons a{
+    display: inline-block;
+    padding-top: 24px;
+    margin-right: 22px;
+    text-align: center;
+}
+.socialicons a:last-child{
+    margin-right: 0;
+}
+
